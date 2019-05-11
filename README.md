@@ -1,9 +1,10 @@
 # SistemaExpertoProlog
 ---
 
-## INTEGRANTES
-- Pablo Mazariegos 0900-15-9515
-- Pablo Zometa     0900-15-
-- Julio Romero     0900-15-
-- Kevin Argueta    0900-15-9846
+| INTEGRANTE | CARNÉ |
+|------------|--------|
+| PABLO MAZARIEGOS | 0900-15-9515 |
+| KEVIN ARGUETA  | 0900-15-9846 |
+| PABLO ZOMETA | 0900-15-48 |
+| JULIO PELLECER | 0900-15- |
 
