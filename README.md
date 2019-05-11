@@ -9,4 +9,9 @@
 | JULIO PELLECER | 0900-15-547 |
 
 
-[Imgur](https://i.imgur.com/Nt1Xurl.jpg)
+
+![Captura 1](https://i.imgur.com/Nt1Xurl.jpg)
+![Captura 1](https://imgur.com/b8H3Gv9)
+![Captura 1](https://imgur.com/qZqnwnK)
+![Captura 1](https://imgur.com/Yw00hnc)
+
